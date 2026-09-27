@@ -7,7 +7,7 @@
 
 OpenTransit Fleet est une application web PHP/MySQL dédiée à la documentation des réseaux de transport et de leurs véhicules.
 
-Le projet est conçu pour être installé facilement sur un hébergement mutualisé, directement par FTP, sans framework obligatoire ni système de compilation.
+Le projet est conçu intégralement par l'intelligence artificielle, peut être installé facilement sur un hébergement mutualisé, directement par FTP, sans framework obligatoire ni système de compilation.
 
 ## Fonctionnalités
 
